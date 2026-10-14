@@ -1,0 +1,8 @@
+GLOBEX CORPORATION
+Invoice Number: INV-992
+Date: 2024-10-20
+Amount: $2,100.50 USD
+Currency: USD
+Due Date: 2024-11-20
+Bill To: Internal Finance
+Description: Hardware procurement

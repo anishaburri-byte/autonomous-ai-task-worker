@@ -1,0 +1,8 @@
+ACME CORPORATION
+Invoice Number: INV-1042
+Date: 2024-11-15
+Amount: $1,245.00 USD
+Currency: USD
+Due Date: 2024-12-15
+Bill To: Internal Finance
+Description: Consulting services Q4
